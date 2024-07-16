@@ -1,7 +1,7 @@
 # Compass 
 
-One Piece Treasure Hunt Maybe
-😶‍🌫️
+One Piece Treasure Hunt Maybe 
+😶‍🌫️(JK)
 
 -------------------------------
 run in terminal
